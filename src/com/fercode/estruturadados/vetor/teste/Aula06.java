@@ -13,5 +13,3 @@ public class Aula06 {
         System.out.println(vetor.busca("Elemento 1"));
     }
 }
-
-// stop aula 06
